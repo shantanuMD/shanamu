@@ -13,8 +13,8 @@
   
 
  
- ​today​=​date​.​today​() 
- ​def​ ​hero​(): 
+ 
+ ​def​hero​(): 
   
  ​    ​def​ ​chalo​(): 
  ​        ​done​ ​=​ ​False 
